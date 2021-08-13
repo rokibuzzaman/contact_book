@@ -1,5 +1,5 @@
 # contact_book
-- `git clone https://github.com/rokibuzzaman/laravel_vue_image_management.git`
+- `git clone https://github.com/rokibuzzaman/contact_book.git`
 - `composer install`
 - `cp .env.example .env`
 - Update `.env` and set your database credentials
